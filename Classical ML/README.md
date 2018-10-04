@@ -9,3 +9,8 @@ Explained Python libraries to be used throughout the book. Introduced dataset fo
 
 ### Relevant files
 - [classify_iris.ipynb](classify_iris.ipynb)
+
+
+## Chapter 2: Supervised Learning
+
+Covered distinction between classification and regression, as well as machine learning concepts such as generalization, overfitting, and underfitting. Introduced to various supervised machine learning algorithms including k-Nearest Neighbors (classification/regression).
