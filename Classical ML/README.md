@@ -17,3 +17,4 @@ Covered distinction between classification and regression, as well as machine le
 ### Relevant files
 - [sample_datasets.ipynb](sample_datasets.ipynb)
 - [k_neighbors_classifier.ipynb](k_neighbors_classifier.ipynb)
+- [k_neighbors_regression.ipynb](k_neighbors_regression.ipynb)
