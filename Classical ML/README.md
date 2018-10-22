@@ -18,3 +18,5 @@ Covered distinction between classification and regression, as well as machine le
 - [sample_datasets.ipynb](sample_datasets.ipynb)
 - [k_neighbors_classifier.ipynb](k_neighbors_classifier.ipynb)
 - [k_neighbors_regressor.ipynb](k_neighbors_regressor.ipynb)
+
+## Chapter 3:
