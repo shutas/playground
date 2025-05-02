@@ -1,5 +1,13 @@
 import google.generativeai as GenAI
 from credentials import GOOGLE_API_KEY
+import pandas as pd
+import json
+import time
+from tqdm import tqdm
+from collections import Counter
+import matplotlib.pyplot as plt
+import japanize_matplotlib
+import re
 from helper import *
 from sys import exit
 

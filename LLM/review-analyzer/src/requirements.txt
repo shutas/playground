@@ -1,1 +1,4 @@
 google-generativeai
+japanize-matplotlib
+pandas
+setuptools
