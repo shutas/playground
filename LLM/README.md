@@ -22,13 +22,13 @@ docker run -it gemini-demo
 It's a small chat application that queries Cisco's new security AI model Foundations-Sec-8B.
 
 ### Prerequisites
-This chatbot is powered by a local LLM, so I didn't put it inside a container. You'd need to set a few things up to run this application smoothly.
+This chatbot is powered by a local LLM, so I didn't put it inside a container. You'd need a few things for this application to run.
 
-1. Hardware recommendations
+1. Good hardware
    - Storage: 50GB (Although 30GB worked for me)
-   - RAM: 16GB
-   (So you definitely need to run something more than a t2.micro LOL... I used g4dn.4xlarge)
-2. Python dependencies (pip commands below)
+   - RAM: 16GB  
+  (So you definitely need to run something more than a t2.micro LOL... I used a g4dn.4xlarge)
+2. Python dependencies (Install them with pip - commands below)
 ```
 pip install torch
 pip install git+https://github.com/huggingface/transformers
@@ -37,4 +37,4 @@ pip install huggingface_hub
 ```
 
 ### How to Run
-1. Simply run `python main.py` 
+1. Run `python main.py` 
